@@ -22,6 +22,9 @@ In this tutorial, we will disscuss matching an e-mail using Regular-Expression a
 ---
 ### Anchors
 
+1. Anchor Symbol ^
+2. Anchor Symbol $
+
 #### What are Anchors?
  
  - Anchors are regex tokens that don't match any characters but that say or assert(anchor) something about the string or the matching process. There are two ancors in regex; the caret(^)used to start the string and the dollar sign($) used to end the string. 
