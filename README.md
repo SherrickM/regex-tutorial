@@ -6,6 +6,10 @@
 In this tutorial, we will disscuss matching an e-mail using Regular-Expression a.k.a Regex. For reference, please take a look at the code snippet below. You will see the code snippet thoughout the remainder of this document.
 
 > `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
+
+## GitHub Gist
+
+> https://gist.github.com/SherrickM/269186a21458115644d422b0b712d27f
 ---
 ## Table of Contents
 
